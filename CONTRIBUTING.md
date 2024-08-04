@@ -10,6 +10,7 @@ This repository uses the [Conventional Commits](https://www.conventionalcommits.
 - `data`: a commit of the type `data` intruduces changes in the `data/` folder
 - `docs`: a commit of the type `docs` intruduces changes related to documenting
 - `perf`: a commit of the type `perf` is used when the only changes were performance related
+- `chore`: a commit of the type `chore` should be used when the commit cannot be categorized
 - `revert`: a commit of type `revert` can only be used when an other commit is reverted
 
 
